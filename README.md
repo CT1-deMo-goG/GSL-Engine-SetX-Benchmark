@@ -38,7 +38,7 @@ GSL identified several solutions that outperform the recorded Best Known Solutio
 ---
 
 ## 📂 Repository Structure
-* **[Root]:** Verified `.sol` files for Set X.
-* **[/Benchmarks]:** Detailed comparative reports and methodology (GSL vs. CW vs. LNS).
+* **[Solution Files](./):** Verified `.sol` files for all hyper-scale instances located in the root directory.
+* **[Benchmarks](./Benchmarks):** Detailed scalability analysis, comparative baseline data (GSL vs. CW vs. LNS), and full execution logs.
 
 **Contact:** [ctsuwan@proton.me](mailto:ctsuwan@proton.me)
